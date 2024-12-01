@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aron!</h1>
 
-    <ul>
-        <li>I’m currently working on an Weather App using React and TailwindCSS. </li>
-        <li>I’m currently learning **React, NodeJS** </li>
+- I’m currently working on an Weather App using React and TailwindCSS. 
+- I’m currently learning **React, NodeJS** 
 
-            </ul>
 
 
 
