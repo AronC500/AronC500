@@ -2,7 +2,7 @@
 
 <h3>About Me</h3>
 My name is Aron Chen
-- I'm currently a Junior studying Computer Science at Hunter College
+- I'm currently a Junior studying Computer Science at Hunter College <br></br>
 - Interested in full-stack dev
 
 
