@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Aron!</h1>
+<h1 align="center">Hi 👋 </h1>
 
+<h3>About Me</h3>
+My name is Aron Chen
+- I'm currently a Junior studying Computer Science at Hunter College
+- Interested in full-stack dev
+
+
+<h3>What I am doing right now</h3>
 - I’m currently working on an Weather App using React and TailwindCSS. 
 - I’m currently learning **React, NodeJS** 
 
